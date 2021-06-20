@@ -128,7 +128,7 @@ def problem13():
     
     res = getLeastSquare(X, y)
     
-    print("b"
+    print("b")
     
     b = res[0]
     func = lambda t: b[1] + 2 * b[2] * t + 3 * b[3] * t * t
